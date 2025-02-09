@@ -126,10 +126,7 @@ If you want to rename the client, change the `delete.py` code for optimal deleti
 python  ghostserver.py
 
 ```
-
-https://github.com/user-attachments/assets/a93a497b-523a-4d51-bcb4-dd1f5c9ccc1e
   
-
 ###  Client Deployment
 
 1. Compile client executable using `compiler.py`
@@ -137,6 +134,8 @@ https://github.com/user-attachments/assets/a93a497b-523a-4d51-bcb4-dd1f5c9ccc1e
 2. Deploy to target machines
 
 3. Clients will automatically connect to the server
+
+https://github.com/user-attachments/assets/a93a497b-523a-4d51-bcb4-dd1f5c9ccc1e
 
 ##  ⚠️ Legal Disclaimer
 
