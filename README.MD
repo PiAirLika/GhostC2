@@ -127,6 +127,7 @@ python  ghostserver.py
 
 ```
 
+https://github.com/user-attachments/assets/a93a497b-523a-4d51-bcb4-dd1f5c9ccc1e
   
 
 ###  Client Deployment
