@@ -65,7 +65,7 @@ def start_server(server_socket, existing_clients):
                             'address': client_address,
                             'info': client_info
                         }
-                        print(f"\033[95mNew registered customer : {client_id}\033[0m")
+                        print(f"\033[95mNew registered client : {client_id}\033[0m")
                 except Exception as e:
                     print(f"\033[91mError when receiving information : {e}\033[0m")
                     client_socket.close()
